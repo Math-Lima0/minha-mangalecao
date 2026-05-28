@@ -46,7 +46,7 @@ Abaixo, a demonstração do sistema buscando metadados, capas e traduzindo sinop
 ### Visão Geral do Acervo (Dashboard)
 Painel principal exibindo as métricas de investimento, progresso de leitura e o grid de obras cadastradas.
 
-![Dashboard Principal](./docs/inicioent.png)
+![Dashboard Principal](./docs/dash.png)
 
 ---
 
