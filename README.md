@@ -1,8 +1,24 @@
+<div align="center">
+
+<img src="./docs/logo.png" width="220" alt="Logo Minha Mangaleção"/>
+
 # 📚 Minha Mangaleção
+
+### Controle absoluto sobre sua coleção de mangás
+
+![PWA](https://img.shields.io/badge/PWA-Enabled-red)
+![Firebase](https://img.shields.io/badge/Firebase-Firestore-orange)
+![Vanilla JS](https://img.shields.io/badge/Vanilla_JS-ES6-yellow)
+![License](https://img.shields.io/badge/License-Private-blue)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
+</div>
+
+---
 
 O **Minha Mangaleção** é um Progressive Web App (PWA) de arquitetura serverless projetado para oferecer controle absoluto sobre acervos de mangás. Construído de colecionador para colecionador, o sistema permite gerenciar volumes, acompanhar investimentos financeiros e organizar a estante virtual de forma rápida, segura e sem depender de frameworks pesados.
 
-🌐 **Acesse o App:** [minha-mangalecao.web.app](https://minha-mangalecao.web.app/) 
+🚀 **Experimente agora:** [minha-mangalecao.web.app](https://minha-mangalecao.web.app/)
 
 ---
 
@@ -17,14 +33,13 @@ O **Minha Mangaleção** é um Progressive Web App (PWA) de arquitetura serverle
 * **Galeria de Imagens:** Espaço dedicado para upload de fotos reais da coleção do usuário, com visualização em formato Lightbox com suporte a zoom.
 
 ---
+
 ## 🖼️ Interface e Demonstração
 
 ### Auto-preenchimento Inteligente (Integração Jikan API)
 Abaixo, a demonstração do sistema buscando metadados, capas e traduzindo sinopses automaticamente em poucos segundos:
 
-<video src="./docs/demo.mp4" controls="controls" muted="muted" width="100%">
-  Seu navegador não suporta a tag de vídeo.
-</video>
+<img src="./docs/demo.gif" width="100%" alt="Demonstração do Auto-preenchimento">
 
 ---
 
@@ -46,6 +61,8 @@ Cálculo dinâmico de valorização, distribuição de formatos e ranking de edi
 Página de captura e apresentação do sistema, focada na conversão de novos usuários.
 
 ![Landing Page Comercial](./docs/inicio.png)
+
+---
 
 ## 🛠️ Stack Tecnológica
 
@@ -69,6 +86,16 @@ O código-fonte segue um padrão modular rigoroso, separando regras de negócio,
 * `charts.js` e `charts.css`: Motor autoral de renderização de gráficos em SVG puro, eliminando a necessidade de bibliotecas pesadas (como Chart.js) para exibir a evolução histórica de preços.
 * `mobile.js` e `mobile.css`: Tratamento isolado do estado de modais (`_modalDepth`) e roteamento visual exclusivo para a versão de dispositivos móveis.
 * `main.js`: O orquestrador central do ciclo de vida da aplicação e observador de estado de autenticação.
+
+---
+
+## 🧠 Roadmap
+
+- [ ] Scanner ISBN por câmera
+- [ ] Recomendações por IA
+- [ ] Sistema social de colecionadores
+- [ ] Marketplace interno
+- [ ] Comparador de preços entre lojas
 
 ---
 
