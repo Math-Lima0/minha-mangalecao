@@ -31,7 +31,7 @@ Abaixo, a demonstração do sistema buscando metadados, capas e traduzindo sinop
 ### Visão Geral do Acervo (Dashboard)
 Painel principal exibindo as métricas de investimento, progresso de leitura e o grid de obras cadastradas.
 
-![Dashboard Principal](./docs/inicioent.jpg)
+![Dashboard Principal](./docs/inicioent.png)
 
 ---
 
@@ -45,7 +45,7 @@ Cálculo dinâmico de valorização, distribuição de formatos e ranking de edi
 ### Landing Page Comercial
 Página de captura e apresentação do sistema, focada na conversão de novos usuários.
 
-![Landing Page Comercial](./docs/inicio.jpg)
+![Landing Page Comercial](./docs/inicio.png)
 
 ## 🛠️ Stack Tecnológica
 
