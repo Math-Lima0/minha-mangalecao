@@ -17,6 +17,35 @@ O **Minha Mangaleção** é um Progressive Web App (PWA) de arquitetura serverle
 * **Galeria de Imagens:** Espaço dedicado para upload de fotos reais da coleção do usuário, com visualização em formato Lightbox com suporte a zoom.
 
 ---
+## 🖼️ Interface e Demonstração
+
+### Auto-preenchimento Inteligente (Integração Jikan API)
+Abaixo, a demonstração do sistema buscando metadados, capas e traduzindo sinopses automaticamente em poucos segundos:
+
+<video src="./docs/demo.mp4" controls="controls" muted="muted" width="100%">
+  Seu navegador não suporta a tag de vídeo.
+</video>
+
+---
+
+### Visão Geral do Acervo (Dashboard)
+Painel principal exibindo as métricas de investimento, progresso de leitura e o grid de obras cadastradas.
+
+![Dashboard Principal](./docs/inicioent.jpg)
+
+---
+
+### Motor de Estatísticas Avançadas
+Cálculo dinâmico de valorização, distribuição de formatos e ranking de editoras focado em colecionadores físicos.
+
+![Painel de Estatísticas](./docs/stats.png)
+
+---
+
+### Landing Page Comercial
+Página de captura e apresentação do sistema, focada na conversão de novos usuários.
+
+![Landing Page Comercial](./docs/inicio.jpg)
 
 ## 🛠️ Stack Tecnológica
 
